@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.25.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702072528855
+  login: 1702072207103
+money: '0'
+last-account-name: KID$AMORT
+logoutlocation:
+  world: 8e51ef07-ea3a-44b6-8b29-d28c971d89dd
+  world-name: kidgdom
+  x: 360.7568628571333
+  y: 63.0
+  z: 308.3332299958307
+  yaw: 74.24624633789062
+  pitch: 3.4500036239624023
+lastlocation:
+  world: 8e51ef07-ea3a-44b6-8b29-d28c971d89dd
+  world-name: kidgdom
+  x: 365.0251622803221
+  y: 73.0
+  z: 308.75687699505437
+  yaw: -176.70079040527344
+  pitch: 24.59990692138672

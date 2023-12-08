@@ -1,0 +1,57 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+      - essentials.help
+      - essentials.list
+      - essentials.motd
+      - essentials.rules
+      - essentials.spawn
+      - shopguiplus.use
+      - modifyworld.*
+
+  rtp_user:
+    permissions:
+      - essentials.rtp
+      - essentials.rtp.others
+
+  crazyauctions_user:
+    permissions:
+      - crazyauctions.use
+
+  citizens_user:
+    permissions:
+      - citizens.interact
+
+  essentials_user:
+    permissions:
+      - essentials.afk
+      - essentials.back
+      - essentials.depth
+      - essentials.home
+      - essentials.sethome
+      - essentials.delhome
+      - essentials.tp
+      - essentials.kit
+      - essentials.pay
+      - essentials.bal
+      - essentials.msg
+      - essentials.reply
+      - essentials.me
+      - essentials.ignore
+      - essentials.eco
+      - essentials.workbench
+      - essentials.compass
+      - essentials.getpos
+      - essentials.suicide
+      - essentials.motd
+      - essentials.rules
+      - essentials.spawn
+      - essentials.list
+      - essentials.tpaccept
+      - essentials.tpdeny
+
+  # Другие разрешения для других плагинов могут быть добавлены здесь
+
+schema-version: 1
